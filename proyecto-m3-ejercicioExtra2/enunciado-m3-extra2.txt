@@ -1,0 +1,5 @@
+Escribe un programa Java que solicite por pantalla un número entero, y si es menor que 10, lo asigne a una variable de tipo int, llamada varInt.
+
+Si no lo es, entonces le asignará a la variable varInt el número 1. (Utiliza para ello el operador condicional? :)
+
+Luego, imprime la tabla de multiplicar de esta variable.
