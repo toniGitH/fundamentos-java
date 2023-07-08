@@ -1,0 +1,12 @@
+Escribe un programa Java que calcule los litros de pintura necesarios para pintar una pared rectangular.
+
+Un litro de pintura cubre aproximadamente, 12 m2 en una sola mano.
+
+Crea una constante llamada cobertura Litro para guardar el dato de cobertura de la pintura (12 m²).
+
+Deberás pedir al usuario:
+
+- El alto y ancho de la pared (multiplicante sabrás el área de la misma)
+- El nombre de mans a aplicar.
+
+Muestra en pantalla los litros de pintura a utilizar.
