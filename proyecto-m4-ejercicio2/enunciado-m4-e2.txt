@@ -1,0 +1,11 @@
+Este programa le pide la edad al usuario, en función de ésta, mostraremos uno de los siguientes mensajes por pantalla:
+
+-> Si tiene 5 o menos años: preescolar.
+
+-> Si tiene entre 6 y 11 años: primaria.
+
+-> Si té entre 12 i 15: ESO.
+
+-> Si tiene entre 16 y 17: Bachillerato.
+
+-> Si es mayor de edad: FP o Universidad.“Nombre Apellido, eres MENOR de edad”.

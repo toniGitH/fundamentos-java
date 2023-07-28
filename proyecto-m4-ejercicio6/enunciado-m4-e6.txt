@@ -1,0 +1,14 @@
+Hacer un programa que solicite al usuario qué día y qué mes nació, con esta información el programa muestra por pantalla, de qué signo del zodiaco es.
+
+Aries-Aries (21.03 — 19.04)
+Taure-Tauro (20.04 — 20.05)
+Gemelos-Géminis (21.05 — 20.06)
+Cranc-Cáncer (21.06 — 22.07)
+León-Leo (23.07 — 22.08)
+Verge-Virgo (23.08 - 22.09)
+Libra-Libra (23.09 — 22.10)
+Escorpí-Escorpión (23.10 — 21.11)
+Sagitari-Sagitario (22.11 — 21.12)
+Capricorn-Capricornio (22.12 — 19.01)
+Aquari-Acuario (20.01 — 18.02)
+Peces-Piscis (19.02 — 20.03)

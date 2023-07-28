@@ -1,0 +1,3 @@
+Hacer un programa que pida dos números y un operador (+,-,*,/).
+
+Al final, el programa debe imprimir por pantalla el resultado de realizar la operación que contenga la variable operador.

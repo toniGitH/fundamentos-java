@@ -1,0 +1,5 @@
+Modifica el ejercicio 1 del módulo 3. Una vez introducidos los datos, el programa debe mostrar lo siguiente por pantalla:
+
+- Si el usuario/a tiene 18 años o más: “Nombre Apellido, eres MAYOR de edad” 
+
+- Si el usuario/a es menor de 18 años: “Nombre Apellido, eres MENOR de edad”.
