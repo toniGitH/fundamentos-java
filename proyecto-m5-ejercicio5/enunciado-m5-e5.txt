@@ -1,0 +1,5 @@
+Tienes que modificar el programa de las becas (M4 Ejercicio 3)
+
+Ahora el programa debe poder dar 5 becas.
+
+El programa irá recabando los datos de los alumnos/as hasta que se den estas 5 becas. Una vez que el programa haya asignado las 5 becas se debe mostrar por pantalla los nombres de los/as 5 alumnos que tienen beca.

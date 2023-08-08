@@ -1,0 +1,5 @@
+Tienes que modificar el programa anterior para añadir una nueva funcionalidad: establecer un número máximo de 5 intentos.
+
+Si el usuario acierta el número escogido por el programa antes de estos 5 intentos, el programa muestra el siguiente mensaje por pantalla: “Enhorabuena, el número es X y has necesitado Y intentos para acertarlo”.
+
+Si no acierta el número antes de 5 intentos, el programa muestra por pantalla: "¡Has utilizado demasiados intentos! El número es X".
