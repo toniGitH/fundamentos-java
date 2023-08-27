@@ -1,0 +1,1 @@
+Haz un programa que determine si un número introducido es par o impar.

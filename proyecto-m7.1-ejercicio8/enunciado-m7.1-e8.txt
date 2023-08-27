@@ -1,0 +1,8 @@
+Crea un programa donde el usuario introduzca una temperatura en °C y se muestre por pantalla la conversión en ºFahrenheit
+
+
+La fórmula para la conversión de los grados es la siguiente:
+
+(0 °C  × 9/5) + K = 32 °F
+
+donde K = 32;

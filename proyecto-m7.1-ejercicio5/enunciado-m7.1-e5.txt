@@ -1,0 +1,7 @@
+Haz un programa que pida al usuario un número entero que sea par.
+
+Si el número tecleado es impar, deberá avisarle del error y volver a solicitarle un nuevo número entero.
+
+Si el número es par, el programa imprimirá una lista con todos los números pares comprendidos entre el 2 y el número par introducido por el usuario.
+
+Adicionalmente, se puede ofrecer al usuario que decida el orden de impresión (ascendente o descendente).

@@ -1,0 +1,7 @@
+Crea un programa en el que el usuario introduce tres notas y el programa calcula la media.
+
+Si la media es inferior a 5 debe mostrar el siguiente mensaje por pantalla: “No has superado el curso. Tienes que recuperar” .
+
+Si la media está entre 5 y 7 debe mostrar: “¡Enhorabuena! Has aprobado, pero deberías seguir practicando” .
+
+Si la media es superior a 7 debe mostrar: "¡Enhorabuena! ¡Has superado el curso! ¡Pasa ya al siguiente nivel!"
