@@ -1,0 +1,6 @@
+Crea un programa que, dado un arrayList de números enteros (pueden ser aleatorios), genere los siguientes resultados:
+
+-> lista de los números pares
+-> lista de los números impares
+-> suma de los números pares
+-> suma de los números impares

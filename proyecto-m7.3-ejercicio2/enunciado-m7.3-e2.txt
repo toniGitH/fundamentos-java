@@ -1,0 +1,4 @@
+En este programa el usuario debe introducir un string y el programa debe mostrar el string al revés.
+
+
+Importante: No se puede utilizar el método reverse()

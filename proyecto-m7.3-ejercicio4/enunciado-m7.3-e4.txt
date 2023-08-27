@@ -1,0 +1,29 @@
+El usuario/a debe introducir un DNI y el programa debe decir si la letra es correcta o no con el número de DNI. Si la letra no es correcta, debe decir qué letra es la correcta.
+
+Para calcular la letra DNI debes tomar el número de DNI a verificar y dividirlo entre 23. El residuo se reemplaza por una letra que ya está asignada a ese número mediante la tabla adjunta: 
+
+Tabla letra DNI
+
+0 ->  T
+1 ->  R
+2 ->  W
+3 ->  A
+4 ->  G
+5 ->  M
+6 ->  Y
+7 ->  F
+8 ->  P
+9 ->  D
+10 -> X
+11 -> B
+12 -> N
+13 -> J
+14 -> Z
+15 -> S
+16 -> Q
+17 -> V
+18 -> H
+19 -> L
+20 -> C
+21 -> K
+22 -> E

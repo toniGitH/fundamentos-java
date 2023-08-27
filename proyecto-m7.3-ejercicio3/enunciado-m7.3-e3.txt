@@ -1,0 +1,1 @@
+El usuario/a debe introducir una frase y el programa debe decir si la frase es un palíndromo.
