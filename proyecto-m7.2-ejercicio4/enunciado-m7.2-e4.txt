@@ -1,0 +1,1 @@
+Escribe un programa que solicite al usuario un número natural y que devuelva el cálculo del factorial de dicho número.

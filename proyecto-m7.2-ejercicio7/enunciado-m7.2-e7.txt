@@ -1,0 +1,1 @@
+El usuario/a introduce un año en  por teclado y el programa llama a un método que indique si el año es bisiesto o no.

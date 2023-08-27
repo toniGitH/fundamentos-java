@@ -1,0 +1,29 @@
+Haz un programa que muestre lo siguiente por pantalla:
+
+*
+
+* *
+
+* * *
+
+* * * *
+
+* * * * *
+
+* * * * * *
+
+* * * * *
+
+* * * *
+
+* * *
+
+* *
+
+*
+
+La línea con más “*” vendrá dada por un número que el usuario/a introducirá por consola.
+
+Condición: En todo el código del programa sólo puede haber dos *
+
+También, a ser posible, no utilices ningún método como repeat() o substring() de la clase String.
