@@ -1,0 +1,8 @@
+La organización de un campeonato de coches quiere contar con un programa para gestionar parte de la información que hasta ahora no tenían informatizada. Quieren saber de cada escudería que participa en el campeonato, su nombre, su presupuesto y su país de origen. Cada escudería puede tener más de un coche y de cada uno quiere saber la potencia, la velocidad máxima, el color y el precio de mercado. 
+
+De las personas trabajadoras de las diferentes escuderías quieren saber el nombre, el primer apellido, la edad, el tiempo que llevan en la escudería y el sueldo. El sueldo base es de 50.000€. Además, de los/las pilotos quieren saber su altura, su peso. El sueldo de los/las pilotos es el sueldo base de las personas trabajadoras más 10.000€ por cada año de antigüedad en la escudería, más 50.000€ de peligrosidad. 
+
+De los mecánicos quieren saber si tienen estudios superiores de mecánica o no. Y su sueldo se calcula sumando 10.000 € por cada año de antigüedad en la escudería más el sueldo base.
+
+Se pide que la aplicación sea capaz de dar de alta, baja y ver pilotos y mecánicos, y ver escuderías y bólidos. Las escuderías y los bólidos pueden estar introducidos directamente en el código.
+

@@ -1,0 +1,18 @@
+Crea un nuevo proyecto Java con una clase llamada "Ordenador", además de la clase que contiene el main. 
+
+Esta clase tendrá como atributos la marca, modelo, procesador, cantidad de memoria RAM y capacidad del disco duro.
+
+La aplicación debe poder generar ordenadores de diferentes formas: 
+
+Solo a partir de la marca y el modelo.
+
+Indicando todos los atributos.
+
+La clase Ordenador debe disponer de los siguientes métodos:
+
+-> Métodos que permitan consultar cada uno de los atributos.
+-> Métodos que permitan modificar el procesador, la cantidad de memoria ramo y la capacidad del disco duro.
+-> Un método que recibirá un string por parámetro y devolverá un string que diga: "En estos momentos se está ejecutando: 'X'" (X es el parámetro recibido por el método y que normalmente será el nombre de un programa) Ejemplo:  " En estos momentos se está ejecutando: Eclipse" 
+-> Un método que devolverá una descripción completa del ordenador (toString()).
+
+En el main del proyecto crea ordenadores de las 2 formas posibles y comprueba que los métodos creados funcionan correctamente.

@@ -1,0 +1,27 @@
+Hacer una aplicación en la que el usuario introduce las coordenadas x, y de dos círculos y sus respectivos radios.
+
+Crear la clase Punto i la clase Circulo: 
+
+Clase Punto
+
+La clase Punto tendrá los atributos posicionX y posicionY. Además tendrá el constructor parametrizado con todos los atributos de la clase.
+
+Clase Circulo
+
+La clase Circulo tendrá los atributos centro (un punto) y el radio (distancia entre el centro y cualquier punto de la circunferencia). Además, tendrá el constructor con todos los parámetros y los siguientes métodos:
+
+⦁ distanciaCentros(otroCirculo): Devuelve la distancia entre el centro del círculo actual y el recibo como parámetro.
+
+⦁ ecuales(otroCirculo): Devuelve true si dos círculos son iguales (si tienen el mismo centro y el mismo radio).
+
+⦁ sonConcentricos(otroCirculo): Devuelve true si dos círculos son concéntricos (tienen igual centro).
+
+⦁ tienenIgualRadi(otroCirculo): Devuelve true si dos círculos tienen el mismo radio.
+
+⦁ sonTangentes(otroCirculo): Devuelve true si dos círculos son tangentes.
+
+⦁ sonSecantes(otroCirculo): Devuelve true si dos círculos son secantes.
+
+⦁ noSeTocan(otroCirculo): Devuelve true si dos círculos no se tocan.
+
+Al final la aplicación mostrará por pantalla el resultado de realizar la llamada a todos los métodos de la clase Círculo.

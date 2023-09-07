@@ -1,0 +1,19 @@
+La ciudad de Barcelona, ​​como cualquier ciudad, está formada por un gran número de edificios. Existen muchas clases de edificios: edificios de viviendas, hospitales, escuelas, bloques de apartamentos, bloques de oficinas, hoteles, cines, etc.
+
+El ejercicio propuesto consistirá en crear una aplicación que contendrá una clase Edificio y varias clases derivadas. No se instanciará ningún objeto de la clase Edificio, sino que se instanciarán objetos de las clases derivadas de ésta. Las clases derivadas son: Hotel, Hospital y Cine.
+
+Todos los edificios tendrán ciertos datos comunes (nombre, número de plantas, superficie (m²)) que se darán al crear el edificio y no se modificarán, pero sí se tendrá que poder acceder a ellos para leerlos.
+
+Se creará un método limpiar() en la clase adecuada, la cual mostrará por pantalla el tiempo que se ha tardado en limpiar el edificio, teniendo en cuenta que se tarda en limpiar un minuto por cada 5 m². Además, si un edificio tiene más de una planta, se tarda en subir medio minuto de una planta a otra. Por tanto, añadiremos medio minuto por cada planta adicional. Por cada minuto de trabajo se pagará un euro diario. Además, como se limpia todos los días, para obtener el coste mensual, deberemos multiplicar por 30 (este coste mensual también se mostrará por pantalla) 
+
+Además, se implementará un método llamado calcularCostVigilancia() que mostrará lo que cuesta al mes contratar vigilantes en cada edificio. Se considerará que cada vigilante de hotel u hospital puede vigilar 1000 m2. Por tanto, si un edificio tiene una superficie de 5500 m², necesitaremos 6 vigilantes. Por el contrario, los vigilantes de los cines pueden vigilar 3000 m². Contratar a cada vigilante cuesta a los propietarios del edificio 1.300 euros mensuales, pero los vigilantes de hoteles cobran un plus de peligrosidad de 500 euros mensuales. 
+
+En el hospital se reparte almuerzo por los enfermos tres veces al día. Habrá un método repartirAlmuerzo() en el lugar adecuado que mostrará, cuando sea llamado, el mensaje “Se están repartiendo xxx raciones” . Para conseguir el número de raciones, se debe multiplicar el número de enfermos/as por 3. El número de enfermos/as ingresados/as en el hospital puede variar a lo largo del tiempo, por tanto, deberá permitirse acceder en el atributo correspondiente, tanto para leerlo como para modificarlo, aunque no se realice directamente. 
+
+En el cine se creará la función proyectarSessio(), que mostrará el mensaje “Se han recaudado xxx euros” , teniendo en cuenta que, para calcular la recaudación, debe multiplicarse el precio de una entrada por el número de asistentes a la sesión, que no podrá superar el aforo máximo. Por tanto, la función proyectarSesión() deberá recibir como parámetros el número de asistentes y el precio de la entrada por aquella sesión. El número de asistentes a la sesión no puede ser mayor que el aforo total de la sala. 
+
+En los hoteles todos los días pasa el servicio de habitaciones. Se calcula que cada miembro del servicio puede atender a 20 habitaciones. Se creará un método que calcule, y muestre por pantalla: a) Cuántas personas son necesarias para atender el servicio de habitaciones el hotel. b) ¿Cuál es el total necesario para los sueldos de estas personas, teniendo en cuenta que cada persona cobra 1.000 euros al mes? 
+
+Ejemplos : El Hospital de Vilafranca, de 1.950 m² y 2 plantas. En ese momento tiene 26 enfermos. El Hospital General de Catalunya, de 25.350 m² y 10 plantas. En ese momento tiene 315 enfermos. El “Cine Montecarlo”, de 3180 m² y 1 planta. El “Cine Principal”, de 12.450 m² y 2 plantas. El Hotel Hilton, de 73.858 m² y 22 plantas. Tiene 583 habitaciones. El Hotel Pepita, de 593 m² y 3 plantas. Tiene 12 habitaciones. 
+
+La aplicación debe ser capaz de dar de alta, mostrar y eliminar edificios. Al llamar al método mostrar, llamaremos a todos los métodos del edificio en cuestión para ver todos sus datos por pantalla.

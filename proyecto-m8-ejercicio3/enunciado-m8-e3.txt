@@ -1,0 +1,14 @@
+Programa una aplicación que tenga programadas todas las opciones del siguiente menú:
+
+0.- Salir de la aplicación.
+1.- Crear client/a.
+2.- Eliminar client/a.
+3.- Crear cuenta de un cliente/a.
+4.- Ingresar euros en una cuenta de un cliente/a.
+5.- Retirar euros en una cuenta de un cliente/a.
+
+A tener en cuenta:
+
+- El saldo inicial de todas las cuentas  debe  ser  0€.
+- Al  crear un cliente/a, no tendrá que tener ninguna cuenta “asociada”.
+- El diagrama  UML  muestra las propiedades y métodos mínimos que deben tener las clases, pero puedes crear más si es necesario.
